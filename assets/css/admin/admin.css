@@ -1,0 +1,32 @@
+.h-100vh{
+  height: 100vh;
+}
+.floats{
+  float:right;
+}
+.floatss{
+  float:center;
+}
+.widths{
+  width:50%;
+}
+.texts{
+  text-align: right;
+}
+.margins{
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  object-fit: cover;
+  object-fit: fill;
+}
+.mgs{
+  margin-top: 80px !important;
+  margin-bottom: 0px;
+}
+
+/* .card-border{
+  border: none;
+}
+.cardes{
+  border: none;
+} */
